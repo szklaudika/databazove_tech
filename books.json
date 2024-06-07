@@ -1,0 +1,727 @@
+[
+    {
+        "book_id": 1,
+        "name": "The Great Gatsby",
+        "year_published": 1925,
+        "ISBN": "9780743273565",
+        "page_count": 180,
+        "format": "Hardcover",
+        "edition": "1st",
+        "publication_date": "1925-04-10",
+        "weigth": 0.5,
+        "language": "English",
+        "publisher": {
+            "publisher_id": 1
+        },
+        "genre": [
+            {
+                "genre_id": 1,
+                "genre_name": "Classic",
+                "description": "Classic literature"
+            }
+        ],
+        "book_event": [
+            {
+                "event_id": 1,
+                "event_name": "Book Launch",
+                "event_date": "1925-04-10",
+                "description": "Initial book launch event"
+            }
+        ],
+        "series": {
+            "series_id": 1,
+            "series_name": "Classics Series",
+            "description": "A collection of classic literature"
+        },
+        "authors": [
+            {
+                "authors_id": 1,
+                "first_name": "F. Scott",
+                "last_name": "Fitzgerald",
+                "nationality": "American",
+                "biography": "Francis Scott Key Fitzgerald was an American novelist...",
+                "website": "http://fscottfitzgerald.com",
+                "birth_date": "1896-09-24"
+            }
+        ],
+        "reviews": [
+            {
+                "user_id": 1,
+                "user_rating": 5.0,
+                "review_text": "A classic masterpiece!",
+                "review_date": "2021-01-01"
+            },
+            {
+                "user_id": 2,
+                "user_rating": 4.5,
+                "review_text": "Timeless and captivating.",
+                "review_date": "2021-02-15"
+            }
+        ],
+        "awards": [
+            {
+                "award_id": 1,
+                "award_name": "Pulitzer Prize",
+                "award_year": 1926,
+                "organization_name": "Pulitzer Organization",
+                "award_date": "1926-05-01"
+            }
+        ]
+    },
+    {
+        "book_id": 2,
+        "name": "1984",
+        "year_published": 1949,
+        "ISBN": "9780451524935",
+        "page_count": 328,
+        "format": "Paperback",
+        "edition": "1st",
+        "publication_date": "1949-06-08",
+        "weigth": 0.6,
+        "language": "English",
+        "publisher": {
+            "publisher_id": 2
+        },
+        "genre": [
+            {
+                "genre_id": 2,
+                "genre_name": "Dystopian",
+                "description": "Dystopian literature"
+            }
+        ],
+        "book_event": [
+            {
+                "event_id": 2,
+                "event_name": "Book Discussion",
+                "event_date": "1949-06-15",
+                "description": "Discussion of the themes of the book"
+            }
+        ],
+        "series": {
+            "series_id": 2,
+            "series_name": "Dystopian Novels",
+            "description": "A collection of dystopian literature"
+        },
+        "authors": [
+            {
+                "authors_id": 2,
+                "first_name": "George",
+                "last_name": "Orwell",
+                "nationality": "British",
+                "biography": "Eric Arthur Blair, known by his pen name George Orwell, was an English novelist...",
+                "website": "http://georgeorwell.org",
+                "birth_date": "1903-06-25"
+            }
+        ],
+        "reviews": [
+            {
+                "user_id": 3,
+                "user_rating": 4.8,
+                "review_text": "Profound and thought-provoking.",
+                "review_date": "2021-03-10"
+            },
+            {
+                "user_id": 4,
+                "user_rating": 4.9,
+                "review_text": "A must-read for everyone.",
+                "review_date": "2021-04-22"
+            }
+        ],
+        "awards": [
+            {
+                "award_id": 2,
+                "award_name": "Prometheus Hall of Fame Award",
+                "award_year": 1984,
+                "organization_name": "Libertarian Futurist Society",
+                "award_date": "1984-09-01"
+            }
+        ]
+    },
+    {
+        "book_id": 3,
+        "name": "To Kill a Mockingbird",
+        "year_published": 1960,
+        "ISBN": "9780061120084",
+        "page_count": 281,
+        "format": "Paperback",
+        "edition": "1st",
+        "publication_date": "1960-07-11",
+        "weigth": 0.7,
+        "language": "English",
+        "publisher": {
+            "publisher_id": 3
+        },
+        "genre": [
+            {
+                "genre_id": 3,
+                "genre_name": "Southern Gothic",
+                "description": "Southern Gothic literature"
+            },
+            {
+                "genre_id": 4,
+                "genre_name": "Coming-of-age",
+                "description": "Coming-of-age story"
+            }
+        ],
+        "book_event": [
+            {
+                "event_id": 3,
+                "event_name": "Book Release",
+                "event_date": "1960-07-11",
+                "description": "Release event for the book"
+            }
+        ],
+        "series": {
+            "series_id": 3,
+            "series_name": "Modern Classics",
+            "description": "A collection of modern classic literature"
+        },
+        "authors": [
+            {
+                "authors_id": 3,
+                "first_name": "Harper",
+                "last_name": "Lee",
+                "nationality": "American",
+                "biography": "Nelle Harper Lee was an American novelist widely known for To Kill a Mockingbird...",
+                "website": "http://harperlee.com",
+                "birth_date": "1926-04-28"
+            }
+        ],
+        "reviews": [
+            {
+                "user_id": 5,
+                "user_rating": 5.0,
+                "review_text": "A poignant and moving story.",
+                "review_date": "2021-05-05"
+            },
+            {
+                "user_id": 6,
+                "user_rating": 4.7,
+                "review_text": "An essential read for understanding human morality.",
+                "review_date": "2021-06-01"
+            }
+        ],
+        "awards": [
+            {
+                "award_id": 3,
+                "award_name": "Pulitzer Prize for Fiction",
+                "award_year": 1961,
+                "organization_name": "Pulitzer Organization",
+                "award_date": "1961-05-01"
+            }
+        ]
+    },
+    {
+        "book_id": 4,
+        "name": "Pride and Prejudice",
+        "year_published": 1813,
+        "ISBN": "9781503290563",
+        "page_count": 279,
+        "format": "Paperback",
+        "edition": "1st",
+        "publication_date": "1813-01-28",
+        "weigth": 0.4,
+        "language": "English",
+        "publisher": {
+            "publisher_id": 4
+        },
+        "genre": [
+            {
+                "genre_id": 5,
+                "genre_name": "Romance",
+                "description": "Romantic literature"
+            },
+            {
+                "genre_id": 6,
+                "genre_name": "Satire",
+                "description": "Satirical literature"
+            }
+        ],
+        "book_event": [
+            {
+                "event_id": 4,
+                "event_name": "Publication",
+                "event_date": "1813-01-28",
+                "description": "Initial publication event"
+            }
+        ],
+        "series": {
+            "series_id": 4,
+            "series_name": "Jane Austen Collection",
+            "description": "A collection of Jane Austen's works"
+        },
+        "authors": [
+            {
+                "authors_id": 4,
+                "first_name": "Jane",
+                "last_name": "Austen",
+                "nationality": "British",
+                "biography": "Jane Austen was an English novelist known primarily for her six major novels...",
+                "website": "http://janeausten.org",
+                "birth_date": "1775-12-16"
+            }
+        ],
+        "reviews": [
+            {
+                "user_id": 7,
+                "user_rating": 4.8,
+                "review_text": "A timeless classic with wit and charm.",
+                "review_date": "2021-07-10"
+            },
+            {
+                "user_id": 8,
+                "user_rating": 4.6,
+                "review_text": "A wonderful exploration of human relationships.",
+                "review_date": "2021-08-15"
+            }
+        ],
+        "awards": [
+            {
+                "award_id": 4,
+                "award_name": "None",
+                "award_year": 0,
+                "organization_name": "N/A",
+                "award_date": null
+            }
+        ]
+    },
+    {
+        "book_id": 5,
+        "name": "The Catcher in the Rye",
+        "year_published": 1951,
+        "ISBN": "9780316769488",
+        "page_count": 214,
+        "format": "Paperback",
+        "edition": "1st",
+        "publication_date": "1951-07-16",
+        "weigth": 0.5,
+        "language": "English",
+        "publisher": {
+            "publisher_id": 5
+        },
+        "genre": [
+            {
+                "genre_id": 4,
+                "genre_name": "Coming-of-age",
+                "description": "Coming-of-age story"
+            }
+        ],
+        "book_event": [
+            {
+                "event_id": 5,
+                "event_name": "Book Release",
+                "event_date": "1951-07-16",
+                "description": "Release event for the book"
+            }
+        ],
+        "series": {
+            "series_id": 5,
+            "series_name": "Modern Classics",
+            "description": "A collection of modern classic literature"
+        },
+        "authors": [
+            {
+                "authors_id": 5,
+                "first_name": "J.D.",
+                "last_name": "Salinger",
+                "nationality": "American",
+                "biography": "Jerome David Salinger was an American writer known for his widely read novel The Catcher in the Rye...",
+                "website": "http://jdsalinger.com",
+                "birth_date": "1919-01-01"
+            }
+        ],
+        "reviews": [
+            {
+                "user_id": 9,
+                "user_rating": 4.7,
+                "review_text": "A deep dive into teenage angst.",
+                "review_date": "2021-09-05"
+            },
+            {
+                "user_id": 10,
+                "user_rating": 4.5,
+                "review_text": "An impactful and thought-provoking read.",
+                "review_date": "2021-10-12"
+            }
+        ],
+        "awards": [
+            {
+                "award_id": 5,
+                "award_name": "Modern Library's 100 Best Novels",
+                "award_year": 1998,
+                "organization_name": "Modern Library",
+                "award_date": "1998-11-01"
+            }
+        ]
+    },
+    {
+        "book_id": 6,
+        "name": "Moby-Dick",
+        "year_published": 1851,
+        "ISBN": "9781503280786",
+        "page_count": 635,
+        "format": "Paperback",
+        "edition": "1st",
+        "publication_date": "1851-11-14",
+        "weigth": 1.1,
+        "language": "English",
+        "publisher": {
+            "publisher_id": 6
+        },
+        "genre": [
+            {
+                "genre_id": 7,
+                "genre_name": "Adventure",
+                "description": "Adventure fiction"
+            },
+            {
+                "genre_id": 8,
+                "genre_name": "Epic",
+                "description": "Epic literature"
+            }
+        ],
+        "book_event": [
+            {
+                "event_id": 6,
+                "event_name": "Book Launch",
+                "event_date": "1851-11-14",
+                "description": "Launch event for the book"
+            }
+        ],
+        "series": {
+            "series_id": 6,
+            "series_name": "Herman Melville Collection",
+            "description": "A collection of Herman Melville's works"
+        },
+        "authors": [
+            {
+                "authors_id": 6,
+                "first_name": "Herman",
+                "last_name": "Melville",
+                "nationality": "American",
+                "biography": "Herman Melville was an American novelist, short story writer, and poet of the American Renaissance period...",
+                "website": "http://hermanmelville.com",
+                "birth_date": "1819-08-01"
+            }
+        ],
+        "reviews": [
+            {
+                "user_id": 11,
+                "user_rating": 4.6,
+                "review_text": "An epic tale of obsession and adventure.",
+                "review_date": "2021-11-20"
+            },
+            {
+                "user_id": 12,
+                "user_rating": 4.4,
+                "review_text": "A challenging but rewarding read.",
+                "review_date": "2021-12-15"
+            }
+        ],
+        "awards": [
+            {
+                "award_id": 6,
+                "award_name": "None",
+                "award_year": 0,
+                "organization_name": "N/A",
+                "award_date": null
+            }
+        ]
+    },
+    {
+        "book_id": 7,
+        "name": "War and Peace",
+        "year_published": 1869,
+        "ISBN": "9780199232765",
+        "page_count": 1225,
+        "format": "Paperback",
+        "edition": "1st",
+        "publication_date": "1869-01-01",
+        "weigth": 2.0,
+        "language": "Russian",
+        "publisher": {
+            "publisher_id": 7
+        },
+        "genre": [
+            {
+                "genre_id": 9,
+                "genre_name": "Historical",
+                "description": "Historical fiction"
+            },
+            {
+                "genre_id": 8,
+                "genre_name": "Epic",
+                "description": "Epic literature"
+            }
+        ],
+        "book_event": [
+            {
+                "event_id": 7,
+                "event_name": "Publication",
+                "event_date": "1869-01-01",
+                "description": "Initial publication event"
+            }
+        ],
+        "series": {
+            "series_id": 7,
+            "series_name": "Leo Tolstoy Collection",
+            "description": "A collection of Leo Tolstoy's works"
+        },
+        "authors": [
+            {
+                "authors_id": 7,
+                "first_name": "Leo",
+                "last_name": "Tolstoy",
+                "nationality": "Russian",
+                "biography": "Count Lev Nikolayevich Tolstoy, usually referred to in English as Leo Tolstoy, was a Russian writer...",
+                "website": "http://tolstoy.ru",
+                "birth_date": "1828-09-09"
+            }
+        ],
+        "reviews": [
+            {
+                "user_id": 13,
+                "user_rating": 4.9,
+                "review_text": "A monumental work of literature.",
+                "review_date": "2021-01-20"
+            },
+            {
+                "user_id": 14,
+                "user_rating": 4.7,
+                "review_text": "A profound exploration of history and humanity.",
+                "review_date": "2021-02-25"
+            }
+        ],
+        "awards": [
+            {
+                "award_id": 7,
+                "award_name": "None",
+                "award_year": 0,
+                "organization_name": "N/A",
+                "award_date": null
+            }
+        ]
+    },
+    {
+        "book_id": 8,
+        "name": "The Odyssey",
+        "year_published": -800,
+        "ISBN": "9780140268867",
+        "page_count": 541,
+        "format": "Paperback",
+        "edition": "1st",
+        "publication_date": "-800-01-01",
+        "weigth": 0.8,
+        "language": "Greek",
+        "publisher": {
+            "publisher_id": 8
+        },
+        "genre": [
+            {
+                "genre_id": 8,
+                "genre_name": "Epic",
+                "description": "Epic literature"
+            },
+            {
+                "genre_id": 10,
+                "genre_name": "Mythology",
+                "description": "Mythological stories"
+            }
+        ],
+        "book_event": [
+            {
+                "event_id": 8,
+                "event_name": "Oral Tradition",
+                "event_date": "-800-01-01",
+                "description": "Originally passed down through oral tradition"
+            }
+        ],
+        "series": {
+            "series_id": 8,
+            "series_name": "Homer's Epics",
+            "description": "A collection of Homer's epic poems"
+        },
+        "authors": [
+            {
+                "authors_id": 8,
+                "first_name": "Homer",
+                "last_name": "",
+                "nationality": "Greek",
+                "biography": "Homer was the legendary author of the Iliad and the Odyssey...",
+                "website": "http://homerpoet.org",
+                "birth_date": "-800-01-01"
+            }
+        ],
+        "reviews": [
+            {
+                "user_id": 15,
+                "user_rating": 5.0,
+                "review_text": "A foundational work of Western literature.",
+                "review_date": "2021-03-15"
+            },
+            {
+                "user_id": 16,
+                "user_rating": 4.8,
+                "review_text": "An epic journey filled with adventure.",
+                "review_date": "2021-04-18"
+            }
+        ],
+        "awards": [
+            {
+                "award_id": 8,
+                "award_name": "None",
+                "award_year": 0,
+                "organization_name": "N/A",
+                "award_date": null
+            }
+        ]
+    },
+    {
+        "book_id": 9,
+        "name": "Crime and Punishment",
+        "year_published": 1866,
+        "ISBN": "9780140449136",
+        "page_count": 671,
+        "format": "Paperback",
+        "edition": "1st",
+        "publication_date": "1866-01-01",
+        "weigth": 0.9,
+        "language": "Russian",
+        "publisher": {
+            "publisher_id": 9
+        },
+        "genre": [
+            {
+                "genre_id": 11,
+                "genre_name": "Psychological Fiction",
+                "description": "Psychological literature"
+            },
+            {
+                "genre_id": 9,
+                "genre_name": "Historical",
+                "description": "Historical fiction"
+            }
+        ],
+        "book_event": [
+            {
+                "event_id": 9,
+                "event_name": "Serial Publication",
+                "event_date": "1866-01-01",
+                "description": "Initially published in a literary journal"
+            }
+        ],
+        "series": {
+            "series_id": 9,
+            "series_name": "Fyodor Dostoevsky Collection",
+            "description": "A collection of Fyodor Dostoevsky's works"
+        },
+        "authors": [
+            {
+                "authors_id": 9,
+                "first_name": "Fyodor",
+                "last_name": "Dostoevsky",
+                "nationality": "Russian",
+                "biography": "Fyodor Mikhailovich Dostoevsky was a Russian novelist, short story writer, essayist, and journalist...",
+                "website": "http://dostoevsky.org",
+                "birth_date": "1821-11-11"
+            }
+        ],
+        "reviews": [
+            {
+                "user_id": 17,
+                "user_rating": 4.9,
+                "review_text": "A deep exploration of morality and redemption.",
+                "review_date": "2021-05-10"
+            },
+            {
+                "user_id": 18,
+                "user_rating": 4.7,
+                "review_text": "A profound psychological novel.",
+                "review_date": "2021-06-25"
+            }
+        ],
+        "awards": [
+            {
+                "award_id": 9,
+                "award_name": "None",
+                "award_year": 0,
+                "organization_name": "N/A",
+                "award_date": null
+            }
+        ]
+    },
+    {
+        "book_id": 10,
+        "name": "Brave New World",
+        "year_published": 1932,
+        "ISBN": "9780060850524",
+        "page_count": 268,
+        "format": "Paperback",
+        "edition": "1st",
+        "publication_date": "1932-01-01",
+        "weigth": 0.5,
+        "language": "English",
+        "publisher": {
+            "publisher_id": 10
+        },
+        "genre": [
+            {
+                "genre_id": 2,
+                "genre_name": "Dystopian",
+                "description": "Dystopian literature"
+            },
+            {
+                "genre_id": 12,
+                "genre_name": "Science Fiction",
+                "description": "Science fiction literature"
+            }
+        ],
+        "book_event": [
+            {
+                "event_id": 10,
+                "event_name": "Book Launch",
+                "event_date": "1932-01-01",
+                "description": "Launch event for the book"
+            }
+        ],
+        "series": {
+            "series_id": 10,
+            "series_name": "Aldous Huxley Collection",
+            "description": "A collection of Aldous Huxley's works"
+        },
+        "authors": [
+            {
+                "authors_id": 10,
+                "first_name": "Aldous",
+                "last_name": "Huxley",
+                "nationality": "British",
+                "biography": "Aldous Leonard Huxley was an English writer and philosopher. He wrote nearly fifty books...",
+                "website": "http://aldoushuxley.org",
+                "birth_date": "1894-07-26"
+            }
+        ],
+        "reviews": [
+            {
+                "user_id": 19,
+                "user_rating": 4.6,
+                "review_text": "A chilling vision of the future.",
+                "review_date": "2021-07-20"
+            },
+            {
+                "user_id": 20,
+                "user_rating": 4.5,
+                "review_text": "A compelling and thought-provoking read.",
+                "review_date": "2021-08-30"
+            }
+        ],
+        "awards": [
+            {
+                "award_id": 10,
+                "award_name": "Retro Hugo Award",
+                "award_year": 2018,
+                "organization_name": "World Science Fiction Society",
+                "award_date": "2018-08-19"
+            }
+        ]
+    }
+]
